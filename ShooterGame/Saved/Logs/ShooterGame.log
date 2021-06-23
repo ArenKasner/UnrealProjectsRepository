@@ -811,3 +811,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.23-20.54.10:863][295]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
 [2021.06.23-20.54.10:863][295]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
 [2021.06.23-20.54.11:189][295]EditorErrors: Warning: No assets to check in!
+[2021.06.23-20.59.59:371][616]LogSlate: Window 'Plugins' being destroyed
+[2021.06.23-20.59.59:377][616]LogSlate: Window 'Plugins' being destroyed
+[2021.06.23-20.59.59:377][616]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.06.23-21.07.53:805][745]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
