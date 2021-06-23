@@ -58,7 +58,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AShooterCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AShooterCharacter)
 
 
-#define ShooterGame_Source_ShooterGame_ShooterCharacter_h_12_PRIVATE_PROPERTY_OFFSET
+#define ShooterGame_Source_ShooterGame_ShooterCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__RotationRate() { return STRUCT_OFFSET(AShooterCharacter, RotationRate); }
+
+
 #define ShooterGame_Source_ShooterGame_ShooterCharacter_h_9_PROLOG
 #define ShooterGame_Source_ShooterGame_ShooterCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
