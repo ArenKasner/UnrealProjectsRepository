@@ -1,0 +1,2 @@
+C:\Users\Kasne\GitRepositories\UnrealProjects\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
+C:\Users\Kasne\GitRepositories\UnrealProjects\ShooterGame\Source\ShooterGame\ShooterGame.h

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShooterGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CC201018-EE3A-409B-ADCD-4C9D3DC7C604}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShooterGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShooterGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DD88A351-CCB0-4A46-B0D0-F2D09970D33E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShooterGame">
+      <UniqueIdentifier>{6AC0F4D7-232B-42B6-A085-9380651A285B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShooterGame\MyPawn.cpp">
+      <Filter>Source\ShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterGame\MyPawn.h">
+      <Filter>Source\ShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShooterGame\ShooterCharacter.cpp">
+      <Filter>Source\ShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterGame\ShooterCharacter.h">
+      <Filter>Source\ShooterGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ShooterGame\ShooterGame.Build.cs">
+      <Filter>Source\ShooterGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShooterGame\ShooterGame.cpp">
+      <Filter>Source\ShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterGame\ShooterGame.h">
+      <Filter>Source\ShooterGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

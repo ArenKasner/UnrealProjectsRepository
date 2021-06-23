@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Kasne\\GitRepositories\\UnrealProjects\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
+		"C:\\Users\\Kasne\\GitRepositories\\UnrealProjects\\ShooterGame\\Source\\ShooterGame.Target.cs",
+		"C:\\Users\\Kasne\\GitRepositories\\UnrealProjects\\ShooterGame\\Source\\ShooterGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
