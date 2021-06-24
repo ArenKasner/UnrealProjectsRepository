@@ -160,11 +160,11 @@ Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
-Binaries
-DerivedDataCache
-Intermediate
-Saved
+ShooterGame/DerivedDataCache/*
+ShooterGame/Binaries
+ShooterGame/DerivedDataCache
+ShooterGame/Intermediate
+ShooterGame/Saved
 ShooterGame/Content/AssetPacks/*
 .vscode
 .vs

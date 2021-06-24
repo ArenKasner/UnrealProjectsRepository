@@ -920,3 +920,86 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.24-18.24.19:690][807]LogFileHelpers: Saving map 'MapFixed' took 11.924
 [2021.06.24-18.24.19:889][807]AssetCheck: New page: Asset Save: MapFixed
 [2021.06.24-18.24.19:890][807]LogContentValidation: Display: Validating World /Game/MapFixed.MapFixed
+[2021.06.24-18.44.07:075][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.06.24-18.44.07:094][686]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MapFixed.MapFixed
+[2021.06.24-18.44.07:094][686]Cmd: MAP LOAD FILE="C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/MapFixed.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.24-18.44.07:094][686]LightingResults: New page: Lighting Build
+[2021.06.24-18.44.07:094][686]LoadErrors: New page: Loading map: MapFixed.umap
+[2021.06.24-18.44.07:198][686]LogWorld: UWorld::CleanupWorld for MapFixed, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-18.44.07:199][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-18.44.07:200][686]MapCheck: New page: Map Check
+[2021.06.24-18.44.07:200][686]LightingResults: New page: Lighting Build
+[2021.06.24-18.44.07:208][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-18.44.07:248][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.06.24-18.44.07:330][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.06.24-18.44.07:353][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.24-18.44.07:353][686]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapFixed'.
+[2021.06.24-18.44.07:450][686]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.24-18.44.07:451][686]LogAIModule: Creating AISystem for world MapFixed
+[2021.06.24-18.44.07:554][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.06.24-18.44.07:561][686]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.24-18.44.07:561][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.376ms to complete.
+[2021.06.24-18.44.07:561][686]LogFileHelpers: Loading map 'MapFixed' took 0.467
+[2021.06.24-18.44.24:237][619]LogContentBrowser: Attempting asset rename: MapFixed -> SandBoxFixed
+[2021.06.24-18.44.25:075][619]LogMetaData: Removing '/Game/SandBoxFixed.SKEL_SandBoxFixed_C' ref from Metadata '/Game/MapFixed.PackageMetaData'
+[2021.06.24-18.44.25:075][619]LogMetaData: Removing '/Game/SandBoxFixed.SandBoxFixed_C' ref from Metadata '/Game/MapFixed.PackageMetaData'
+[2021.06.24-18.44.25:075][619]LogMetaData: Removing '/Game/SandBoxFixed.SKEL_SandBoxFixed_C:ReceiveBeginPlay' ref from Metadata '/Game/MapFixed.PackageMetaData'
+[2021.06.24-18.44.25:075][619]LogMetaData: Removing '/Game/SandBoxFixed.SKEL_SandBoxFixed_C:ReceiveTick' ref from Metadata '/Game/MapFixed.PackageMetaData'
+[2021.06.24-18.44.25:106][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SandBoxFixed" FILE="C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/SandBoxFixed.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-18.44.25:113][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.06.24-18.44.34:776][619]LogSavePackage: Moving 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Saved/SandBoxFixedFB4481574DF5E37D29048BBBB58024E6.tmp' to 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/SandBoxFixed.umap'
+[2021.06.24-18.44.35:326][619]LogFileHelpers: Saving map 'SandBoxFixed' took 10.223
+[2021.06.24-18.44.35:327][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapFixed" FILE="C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/MapFixed.umap" SILENT=true
+[2021.06.24-18.44.35:330][619]LogSavePackage: Moving 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Saved/MapFixed871D6FBE4684BAE8B959858E5355AAAD.tmp' to 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/MapFixed.umap'
+[2021.06.24-18.44.36:032][619]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-18.44.36:032][619]LogContentValidation: Display: Validating ObjectRedirector /Game/MapFixed.Default__MapFixed_C
+[2021.06.24-18.44.36:032][619]LogContentValidation: Display: Validating ObjectRedirector /Game/MapFixed.MapFixed_C
+[2021.06.24-18.44.36:032][619]LogContentValidation: Display: Validating ObjectRedirector /Game/MapFixed.MapFixed
+[2021.06.24-18.44.36:032][619]LogContentValidation: Display: Validating World /Game/SandBoxFixed.SandBoxFixed
+[2021.06.24-18.44.48:449][138]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.44.53:787][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SandBoxFixed" FILE="C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/SandBoxFixed.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-18.44.53:793][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.06.24-18.45.05:222][450]LogSavePackage: Moving 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Saved/SandBoxFixedF6F6C9B940C815406075A998BD7E293A.tmp' to 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/SandBoxFixed.umap'
+[2021.06.24-18.45.05:246][450]AssetCheck: New page: Asset Save: SandBoxFixed
+[2021.06.24-18.45.05:246][450]LogContentValidation: Display: Validating World /Game/SandBoxFixed.SandBoxFixed
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.10:426][718]SourceControl: fatal: D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/EpicGamesStorage/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Kasne/GitRepositories/UnrealProjects'
+[2021.06.24-18.45.13:294][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapFixed" FILE="C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/MapFixed.umap" SILENT=true
+[2021.06.24-18.45.13:297][718]LogSavePackage: Moving 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Saved/MapFixedD32D68634FF637B5DEC113ACC41D89D2.tmp' to 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/MapFixed.umap'
+[2021.06.24-18.45.13:299][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SandBoxFixed" FILE="C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/SandBoxFixed.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-18.45.13:306][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.06.24-18.45.27:314][718]LogSavePackage: Moving 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Saved/SandBoxFixed08522C604CFA719F4A1D07B98A56E4ED.tmp' to 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/SandBoxFixed.umap'
+[2021.06.24-18.45.27:321][718]LogFileHelpers: Saving map 'SandBoxFixed' took 14.022
+[2021.06.24-18.45.27:448][718]LogSavePackage: Moving 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Saved/SM_Stairs_A15B14E7454CDE729E830A57A96339BEB0.tmp' to 'C:/Users/Kasne/GitRepositories/UnrealProjects/ShooterGame/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.uasset'
+[2021.06.24-18.46.10:082][718]LogSlate: Window 'Submit Files' being destroyed
+[2021.06.24-18.46.11:513][718]LogSourceControl: commit successful: [main 92a3d3d] FixedSandbox Level
+[2021.06.24-18.46.11:643][718]SourceControl: [main 92a3d3d] FixedSandbox Level
+[2021.06.24-18.46.11:643][718]SourceControl:  3 files changed, 2 insertions(+), 2 deletions(-)
+[2021.06.24-18.46.11:643][718]SourceControl:  rewrite ShooterGame/Content/MapFixed.umap (99%)
+[2021.06.24-18.46.11:643][718]SourceControl:  copy ShooterGame/Content/{MapFixed.umap => SandBoxFixed.umap} (76%)
+[2021.06.24-18.46.11:650][718]SourceControl: Commited [main 92a3d3d] FixedSandbox Level.
+[2021.06.24-18.46.11:677][719]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-18.46.11:677][719]LogContentValidation: Display: Validating StaticMesh /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.SM_Stairs_A1
+[2021.06.24-18.46.11:677][719]LogContentValidation: Display: Validating ObjectRedirector /Game/MapFixed.Default__MapFixed_C
+[2021.06.24-18.46.11:677][719]LogContentValidation: Display: Validating ObjectRedirector /Game/MapFixed.MapFixed_C
+[2021.06.24-18.46.11:677][719]LogContentValidation: Display: Validating ObjectRedirector /Game/MapFixed.MapFixed
+[2021.06.24-18.46.11:677][719]LogContentValidation: Display: Validating World /Game/SandBoxFixed.SandBoxFixed
