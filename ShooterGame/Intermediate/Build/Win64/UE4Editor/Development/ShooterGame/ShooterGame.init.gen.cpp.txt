@@ -1,3 +1,0 @@
-C:\Users\Kasne\GitRepositories\UnrealProjects\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
-D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
