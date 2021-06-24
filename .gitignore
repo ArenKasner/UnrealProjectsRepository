@@ -165,7 +165,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-/AssetPack/*
+ShooterGame/Content/AssetPacks/*
 .vscode
 .vs
 *.VC.db
